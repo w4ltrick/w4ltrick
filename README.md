@@ -16,7 +16,6 @@ No momento estudo HTML, CSS, JS, JAVA, VUE 📚</p>
     <img align="left" alt="Arthur-HTML" height="45" width="55" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=cc510f">
    <img align="left" alt="Arthur-JS" height="45" width="55" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=cc510f">
   <img align="left" alt="Arthur-CSS" height="45" width="55" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
-  <img align="left" alt="Arthur-BootStrap" height="50" width="55" src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=128&color=6239c0">
   <img align="left" alt="Arthur-JAVA" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="left" alt="Arthur-PostgreSQL" height="45" width="50" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=254fb1" />
    <img align="left" alt="Arthur-VUE height="45" width="50" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor">
