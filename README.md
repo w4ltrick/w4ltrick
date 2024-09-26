@@ -1,10 +1,10 @@
 <div align = "center">
-<h1>Welcome to my GitHub!</h1>
+<h1>Bem Vindo ao meu GitHub!</h1>
 <div align = "center">
-<p>I'm studying System Analysis and Development at SESI / SENAI 💻
+<p>Estou cursando Análise e Desenvolvimento de Sistemas no SESI/SENAI  💻
 
 
-At the moment I study HTML, CSS, JS, JAVA, JAVASCRIPT 📚</p>
+No momento estudo HTML, CSS, JS, JAVA, VUE 📚</p>
 </div>
 <br>
 <div align="center">
