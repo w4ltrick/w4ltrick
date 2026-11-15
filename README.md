@@ -23,17 +23,21 @@
 <h3>Tecnologias</h3>
 
 <div style="display: inline_block">
-  <img alt="HTML" height="45" width="55" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=cc510f">
-  <img alt="JavaScript" height="45" width="55" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=cc510f">
-  <img alt="CSS" height="45" width="55" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
+  <img alt="HTML" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="JavaScript" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img alt="CSS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Java" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img alt="PostgreSQL" height="45" width="50" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=254fb1">
-  <img alt="Vue.js" height="45" width="50" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor">
+  <img alt="PostgreSQL" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img alt="Vue.js" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 </div>
 
 <br>
 
 <div align="center">
+  <a href="https://portfolio-amber-nu-q2cr4r62d8.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-Acessar-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
+  </a>
+
   <a href="mailto:w4ltrick@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
