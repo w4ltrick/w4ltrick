@@ -14,8 +14,8 @@
 <br>
 
 <a href="https://github.com/w4ltrick">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=w4ltrick&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w4ltrick&layout=compact&langs_count=7&theme=great-gatsby"/>
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=w4ltrick&theme=great_gatsby"/>
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=w4ltrick&theme=great_gatsby"/>
 </a>
 
 <br><br>
